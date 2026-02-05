@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shubham230305)  
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamshinde230305@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamshinde230305@gmail.com)
 
 ---
 
